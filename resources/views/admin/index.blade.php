@@ -9,6 +9,7 @@
 @section('content')
     <p>Bienvenidos al panel de administración</p>
     Hola javier
+    Hola Moises, no se que hago
 @stop
 
 @section('css')
